@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Palaksh-singh/DSA/tree/master/0169-majority-element) |
 | [0486-predict-the-winner](https://github.com/Palaksh-singh/DSA/tree/master/0486-predict-the-winner) |
 | [0704-binary-search](https://github.com/Palaksh-singh/DSA/tree/master/0704-binary-search) |
+| [0877-stone-game](https://github.com/Palaksh-singh/DSA/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/Palaksh-singh/DSA/tree/master/1260-shift-2d-grid) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Palaksh-singh/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Two Pointers
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Palaksh-singh/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Palaksh-singh/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/Palaksh-singh/DSA/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Palaksh-singh/DSA/tree/master/0877-stone-game) |
 ## Matrix
 |  |
 | ------- |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Palaksh-singh/DSA/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Palaksh-singh/DSA/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Palaksh-singh/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Palaksh-singh/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Bit Manipulation
@@ -93,4 +96,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Palaksh-singh/DSA/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Palaksh-singh/DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
