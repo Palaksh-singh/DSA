@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Palaksh-singh/DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Palaksh-singh/DSA/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Palaksh-singh/DSA/tree/master/1260-shift-2d-grid) |
+| [1406-stone-game-iii](https://github.com/Palaksh-singh/DSA/tree/master/1406-stone-game-iii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Palaksh-singh/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Two Pointers
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Palaksh-singh/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Palaksh-singh/DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Palaksh-singh/DSA/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/Palaksh-singh/DSA/tree/master/1406-stone-game-iii) |
 ## Matrix
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Palaksh-singh/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Palaksh-singh/DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Palaksh-singh/DSA/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/Palaksh-singh/DSA/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Palaksh-singh/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Palaksh-singh/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Bit Manipulation
@@ -101,10 +104,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Palaksh-singh/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Palaksh-singh/DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Palaksh-singh/DSA/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/Palaksh-singh/DSA/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Palaksh-singh/DSA/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/Palaksh-singh/DSA/tree/master/1406-stone-game-iii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -113,4 +118,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Palaksh-singh/DSA/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/Palaksh-singh/DSA/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
