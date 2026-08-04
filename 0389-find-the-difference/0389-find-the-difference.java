@@ -1,15 +1,13 @@
 class Solution {
     public char findTheDifference(String s, String t) {
-        int[] freq = new int[26];
-
-        for(char ch : s.toCharArray()) {
-            freq[ch - 'a']++;
+        char ans = 0;
+        for (char ch : s.toCharArray()) {
+            ans ^= ch;
         }
 
         for (char ch : t.toCharArray()) {
-            freq[ch - 'a']--;
-            if (freq[ch - 'a'] < 0) return ch;
+            ans ^= ch;
         }
-        return ' ';
+        return ans;
     }
 }
