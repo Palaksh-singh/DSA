@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Palaksh-singh/DSA/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Palaksh-singh/DSA/tree/master/1260-shift-2d-grid) |
 | [1406-stone-game-iii](https://github.com/Palaksh-singh/DSA/tree/master/1406-stone-game-iii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Palaksh-singh/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Palaksh-singh/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3731-find-missing-elements](https://github.com/Palaksh-singh/DSA/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Palaksh-singh/DSA/tree/master/1140-stone-game-ii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Palaksh-singh/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Zero-Sum Game
 |  |
 | ------- |
@@ -206,4 +208,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Palaksh-singh/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Palaksh-singh/DSA/tree/master/0567-permutation-in-string) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Palaksh-singh/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
