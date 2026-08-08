@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Palaksh-singh/DSA/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/Palaksh-singh/DSA/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/Palaksh-singh/DSA/tree/master/0904-fruit-into-baskets) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Palaksh-singh/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Palaksh-singh/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Palaksh-singh/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/Palaksh-singh/DSA/tree/master/3731-find-missing-elements) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/Palaksh-singh/DSA/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/Palaksh-singh/DSA/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Palaksh-singh/DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Palaksh-singh/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Palaksh-singh/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Palaksh-singh/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Palaksh-singh/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -215,5 +217,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Palaksh-singh/DSA/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Palaksh-singh/DSA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Palaksh-singh/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Palaksh-singh/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Palaksh-singh/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
