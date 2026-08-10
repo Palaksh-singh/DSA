@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Palaksh-singh/DSA/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/Palaksh-singh/DSA/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Palaksh-singh/DSA/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/Palaksh-singh/DSA/tree/master/0383-ransom-note) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Palaksh-singh/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/Palaksh-singh/DSA/tree/master/0014-longest-common-prefix) |
 | [0043-multiply-strings](https://github.com/Palaksh-singh/DSA/tree/master/0043-multiply-strings) |
+| [0076-minimum-window-substring](https://github.com/Palaksh-singh/DSA/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Palaksh-singh/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Palaksh-singh/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Palaksh-singh/DSA/tree/master/0205-isomorphic-strings) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Palaksh-singh/DSA/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Palaksh-singh/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Palaksh-singh/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Palaksh-singh/DSA/tree/master/0567-permutation-in-string) |
