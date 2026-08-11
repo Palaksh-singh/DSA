@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Palaksh-singh/DSA/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Palaksh-singh/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Palaksh-singh/DSA/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/Palaksh-singh/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Palaksh-singh/DSA/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Palaksh-singh/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Palaksh-singh/DSA/tree/master/0075-sort-colors) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Palaksh-singh/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Palaksh-singh/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Palaksh-singh/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Palaksh-singh/DSA/tree/master/0125-valid-palindrome) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Palaksh-singh/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Palaksh-singh/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Palaksh-singh/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/Palaksh-singh/DSA/tree/master/0486-predict-the-winner) |
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Palaksh-singh/DSA/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Palaksh-singh/DSA/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/Palaksh-singh/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Palaksh-singh/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0503-next-greater-element-ii](https://github.com/Palaksh-singh/DSA/tree/master/0503-next-greater-element-ii) |
@@ -254,5 +258,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Palaksh-singh/DSA/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/Palaksh-singh/DSA/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
