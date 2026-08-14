@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Palaksh-singh/DSA/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/Palaksh-singh/DSA/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Palaksh-singh/DSA/tree/master/0904-fruit-into-baskets) |
+| [0912-sort-an-array](https://github.com/Palaksh-singh/DSA/tree/master/0912-sort-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/Palaksh-singh/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Palaksh-singh/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Palaksh-singh/DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Palaksh-singh/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Palaksh-singh/DSA/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/Palaksh-singh/DSA/tree/master/0389-find-the-difference) |
+| [0912-sort-an-array](https://github.com/Palaksh-singh/DSA/tree/master/0912-sort-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Palaksh-singh/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/Palaksh-singh/DSA/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Palaksh-singh/DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Palaksh-singh/DSA/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/Palaksh-singh/DSA/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -272,8 +275,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/Palaksh-singh/DSA/tree/master/0407-trapping-rain-water-ii) |
+| [0912-sort-an-array](https://github.com/Palaksh-singh/DSA/tree/master/0912-sort-an-array) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Palaksh-singh/DSA/tree/master/0070-climbing-stairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Palaksh-singh/DSA/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Palaksh-singh/DSA/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Palaksh-singh/DSA/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Palaksh-singh/DSA/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
