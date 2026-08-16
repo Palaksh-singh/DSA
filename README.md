@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Palaksh-singh/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Palaksh-singh/DSA/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Palaksh-singh/DSA/tree/master/0169-majority-element) |
+| [0218-the-skyline-problem](https://github.com/Palaksh-singh/DSA/tree/master/0218-the-skyline-problem) |
 | [0407-trapping-rain-water-ii](https://github.com/Palaksh-singh/DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0486-predict-the-winner](https://github.com/Palaksh-singh/DSA/tree/master/0486-predict-the-winner) |
 | [0503-next-greater-element-ii](https://github.com/Palaksh-singh/DSA/tree/master/0503-next-greater-element-ii) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Palaksh-singh/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Palaksh-singh/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Palaksh-singh/DSA/tree/master/0169-majority-element) |
+| [0218-the-skyline-problem](https://github.com/Palaksh-singh/DSA/tree/master/0218-the-skyline-problem) |
 | [0389-find-the-difference](https://github.com/Palaksh-singh/DSA/tree/master/0389-find-the-difference) |
 | [0912-sort-an-array](https://github.com/Palaksh-singh/DSA/tree/master/0912-sort-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Palaksh-singh/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Palaksh-singh/DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Palaksh-singh/DSA/tree/master/0169-majority-element) |
+| [0218-the-skyline-problem](https://github.com/Palaksh-singh/DSA/tree/master/0218-the-skyline-problem) |
 | [0912-sort-an-array](https://github.com/Palaksh-singh/DSA/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
@@ -279,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/Palaksh-singh/DSA/tree/master/0218-the-skyline-problem) |
 | [0407-trapping-rain-water-ii](https://github.com/Palaksh-singh/DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0912-sort-an-array](https://github.com/Palaksh-singh/DSA/tree/master/0912-sort-an-array) |
 ## Memoization
@@ -301,4 +305,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Palaksh-singh/DSA/tree/master/0912-sort-an-array) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/Palaksh-singh/DSA/tree/master/0218-the-skyline-problem) |
+## Segment Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/Palaksh-singh/DSA/tree/master/0218-the-skyline-problem) |
+## Sweep Line
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/Palaksh-singh/DSA/tree/master/0218-the-skyline-problem) |
+## Ordered Set
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/Palaksh-singh/DSA/tree/master/0218-the-skyline-problem) |
 <!---LeetCode Topics End-->
