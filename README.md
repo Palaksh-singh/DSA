@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Palaksh-singh/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Palaksh-singh/DSA/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Palaksh-singh/DSA/tree/master/0169-majority-element) |
+| [0216-combination-sum-iii](https://github.com/Palaksh-singh/DSA/tree/master/0216-combination-sum-iii) |
 | [0218-the-skyline-problem](https://github.com/Palaksh-singh/DSA/tree/master/0218-the-skyline-problem) |
 | [0407-trapping-rain-water-ii](https://github.com/Palaksh-singh/DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0486-predict-the-winner](https://github.com/Palaksh-singh/DSA/tree/master/0486-predict-the-winner) |
@@ -328,4 +329,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/Palaksh-singh/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Palaksh-singh/DSA/tree/master/0040-combination-sum-ii) |
+| [0216-combination-sum-iii](https://github.com/Palaksh-singh/DSA/tree/master/0216-combination-sum-iii) |
 <!---LeetCode Topics End-->
