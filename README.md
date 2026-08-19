@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Palaksh-singh/DSA/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Palaksh-singh/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Palaksh-singh/DSA/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/Palaksh-singh/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Palaksh-singh/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Palaksh-singh/DSA/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Palaksh-singh/DSA/tree/master/0042-trapping-rain-water) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Palaksh-singh/DSA/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/Palaksh-singh/DSA/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/Palaksh-singh/DSA/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Palaksh-singh/DSA/tree/master/0205-isomorphic-strings) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Palaksh-singh/DSA/tree/master/0037-sudoku-solver) |
 | [0407-trapping-rain-water-ii](https://github.com/Palaksh-singh/DSA/tree/master/0407-trapping-rain-water-ii) |
 | [1260-shift-2d-grid](https://github.com/Palaksh-singh/DSA/tree/master/1260-shift-2d-grid) |
 | [1706-where-will-the-ball-fall](https://github.com/Palaksh-singh/DSA/tree/master/1706-where-will-the-ball-fall) |
@@ -334,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Palaksh-singh/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Palaksh-singh/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Palaksh-singh/DSA/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Palaksh-singh/DSA/tree/master/0051-n-queens) |
@@ -343,6 +347,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Palaksh-singh/DSA/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Palaksh-singh/DSA/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Palaksh-singh/DSA/tree/master/0052-n-queens-ii) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Palaksh-singh/DSA/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
