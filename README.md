@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Palaksh-singh/DSA/tree/master/0912-sort-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/Palaksh-singh/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Palaksh-singh/DSA/tree/master/0992-subarrays-with-k-different-integers) |
+| [1001-grid-illumination](https://github.com/Palaksh-singh/DSA/tree/master/1001-grid-illumination) |
 | [1004-max-consecutive-ones-iii](https://github.com/Palaksh-singh/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/Palaksh-singh/DSA/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Palaksh-singh/DSA/tree/master/1248-count-number-of-nice-subarrays) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Palaksh-singh/DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Palaksh-singh/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Palaksh-singh/DSA/tree/master/0992-subarrays-with-k-different-integers) |
+| [1001-grid-illumination](https://github.com/Palaksh-singh/DSA/tree/master/1001-grid-illumination) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Palaksh-singh/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Palaksh-singh/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Palaksh-singh/DSA/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
