@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Palaksh-singh/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/Palaksh-singh/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Palaksh-singh/DSA/tree/master/0877-stone-game) |
+| [0968-binary-tree-cameras](https://github.com/Palaksh-singh/DSA/tree/master/0968-binary-tree-cameras) |
 | [1140-stone-game-ii](https://github.com/Palaksh-singh/DSA/tree/master/1140-stone-game-ii) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Palaksh-singh/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1406-stone-game-iii](https://github.com/Palaksh-singh/DSA/tree/master/1406-stone-game-iii) |
@@ -356,4 +357,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Palaksh-singh/DSA/tree/master/0037-sudoku-solver) |
+## Tree
+|  |
+| ------- |
+| [0968-binary-tree-cameras](https://github.com/Palaksh-singh/DSA/tree/master/0968-binary-tree-cameras) |
+## Depth-First Search
+|  |
+| ------- |
+| [0968-binary-tree-cameras](https://github.com/Palaksh-singh/DSA/tree/master/0968-binary-tree-cameras) |
+## Binary Tree
+|  |
+| ------- |
+| [0968-binary-tree-cameras](https://github.com/Palaksh-singh/DSA/tree/master/0968-binary-tree-cameras) |
+## DP on Trees
+|  |
+| ------- |
+| [0968-binary-tree-cameras](https://github.com/Palaksh-singh/DSA/tree/master/0968-binary-tree-cameras) |
 <!---LeetCode Topics End-->
