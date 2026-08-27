@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Palaksh-singh/DSA/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Palaksh-singh/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Palaksh-singh/DSA/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/Palaksh-singh/DSA/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Palaksh-singh/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Palaksh-singh/DSA/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Palaksh-singh/DSA/tree/master/0090-subsets-ii) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Palaksh-singh/DSA/tree/master/0037-sudoku-solver) |
+| [0079-word-search](https://github.com/Palaksh-singh/DSA/tree/master/0079-word-search) |
 | [0407-trapping-rain-water-ii](https://github.com/Palaksh-singh/DSA/tree/master/0407-trapping-rain-water-ii) |
 | [1260-shift-2d-grid](https://github.com/Palaksh-singh/DSA/tree/master/1260-shift-2d-grid) |
 | [1706-where-will-the-ball-fall](https://github.com/Palaksh-singh/DSA/tree/master/1706-where-will-the-ball-fall) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Palaksh-singh/DSA/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/Palaksh-singh/DSA/tree/master/0043-multiply-strings) |
 | [0076-minimum-window-substring](https://github.com/Palaksh-singh/DSA/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/Palaksh-singh/DSA/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Palaksh-singh/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Palaksh-singh/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Palaksh-singh/DSA/tree/master/0205-isomorphic-strings) |
@@ -348,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Palaksh-singh/DSA/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Palaksh-singh/DSA/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Palaksh-singh/DSA/tree/master/0052-n-queens-ii) |
+| [0079-word-search](https://github.com/Palaksh-singh/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Palaksh-singh/DSA/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Palaksh-singh/DSA/tree/master/0216-combination-sum-iii) |
 ## Algorithm X
@@ -368,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Palaksh-singh/DSA/tree/master/0079-word-search) |
 | [0834-sum-of-distances-in-tree](https://github.com/Palaksh-singh/DSA/tree/master/0834-sum-of-distances-in-tree) |
 | [0968-binary-tree-cameras](https://github.com/Palaksh-singh/DSA/tree/master/0968-binary-tree-cameras) |
 ## Binary Tree
