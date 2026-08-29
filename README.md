@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Palaksh-singh/DSA/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Palaksh-singh/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1706-where-will-the-ball-fall](https://github.com/Palaksh-singh/DSA/tree/master/1706-where-will-the-ball-fall) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Palaksh-singh/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Palaksh-singh/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Palaksh-singh/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Palaksh-singh/DSA/tree/master/3731-find-missing-elements) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/Palaksh-singh/DSA/tree/master/0218-the-skyline-problem) |
 | [0389-find-the-difference](https://github.com/Palaksh-singh/DSA/tree/master/0389-find-the-difference) |
 | [0912-sort-an-array](https://github.com/Palaksh-singh/DSA/tree/master/0912-sort-an-array) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Palaksh-singh/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Palaksh-singh/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/Palaksh-singh/DSA/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -391,4 +393,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0834-sum-of-distances-in-tree](https://github.com/Palaksh-singh/DSA/tree/master/0834-sum-of-distances-in-tree) |
+## Union-Find
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Palaksh-singh/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
