@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0090-subsets-ii](https://github.com/Palaksh-singh/DSA/tree/master/0090-subsets-ii) |
 | [0389-find-the-difference](https://github.com/Palaksh-singh/DSA/tree/master/0389-find-the-difference) |
+| [0401-binary-watch](https://github.com/Palaksh-singh/DSA/tree/master/0401-binary-watch) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Palaksh-singh/DSA/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Palaksh-singh/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Greedy
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Palaksh-singh/DSA/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Palaksh-singh/DSA/tree/master/0216-combination-sum-iii) |
 | [0282-expression-add-operators](https://github.com/Palaksh-singh/DSA/tree/master/0282-expression-add-operators) |
+| [0401-binary-watch](https://github.com/Palaksh-singh/DSA/tree/master/0401-binary-watch) |
 ## Algorithm X
 |  |
 | ------- |
