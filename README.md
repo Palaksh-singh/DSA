@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Palaksh-singh/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Palaksh-singh/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Palaksh-singh/DSA/tree/master/0205-isomorphic-strings) |
+| [0257-binary-tree-paths](https://github.com/Palaksh-singh/DSA/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/Palaksh-singh/DSA/tree/master/0282-expression-add-operators) |
 | [0344-reverse-string](https://github.com/Palaksh-singh/DSA/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Palaksh-singh/DSA/tree/master/0383-ransom-note) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Palaksh-singh/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Palaksh-singh/DSA/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Palaksh-singh/DSA/tree/master/0216-combination-sum-iii) |
+| [0257-binary-tree-paths](https://github.com/Palaksh-singh/DSA/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/Palaksh-singh/DSA/tree/master/0282-expression-add-operators) |
 | [0401-binary-watch](https://github.com/Palaksh-singh/DSA/tree/master/0401-binary-watch) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Palaksh-singh/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -379,17 +381,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/Palaksh-singh/DSA/tree/master/0257-binary-tree-paths) |
 | [0834-sum-of-distances-in-tree](https://github.com/Palaksh-singh/DSA/tree/master/0834-sum-of-distances-in-tree) |
 | [0968-binary-tree-cameras](https://github.com/Palaksh-singh/DSA/tree/master/0968-binary-tree-cameras) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Palaksh-singh/DSA/tree/master/0079-word-search) |
+| [0257-binary-tree-paths](https://github.com/Palaksh-singh/DSA/tree/master/0257-binary-tree-paths) |
 | [0834-sum-of-distances-in-tree](https://github.com/Palaksh-singh/DSA/tree/master/0834-sum-of-distances-in-tree) |
 | [0968-binary-tree-cameras](https://github.com/Palaksh-singh/DSA/tree/master/0968-binary-tree-cameras) |
 ## Binary Tree
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/Palaksh-singh/DSA/tree/master/0257-binary-tree-paths) |
 | [0968-binary-tree-cameras](https://github.com/Palaksh-singh/DSA/tree/master/0968-binary-tree-cameras) |
 ## DP on Trees
 |  |
