@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Palaksh-singh/DSA/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Palaksh-singh/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1706-where-will-the-ball-fall](https://github.com/Palaksh-singh/DSA/tree/master/1706-where-will-the-ball-fall) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Palaksh-singh/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Palaksh-singh/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Palaksh-singh/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Palaksh-singh/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Palaksh-singh/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Palaksh-singh/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Math
 |  |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Palaksh-singh/DSA/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Palaksh-singh/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1406-stone-game-iii](https://github.com/Palaksh-singh/DSA/tree/master/1406-stone-game-iii) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Palaksh-singh/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Palaksh-singh/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Palaksh-singh/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Bit Manipulation
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Palaksh-singh/DSA/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/Palaksh-singh/DSA/tree/master/0401-binary-watch) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Palaksh-singh/DSA/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Palaksh-singh/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Palaksh-singh/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Greedy
 |  |
@@ -361,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Palaksh-singh/DSA/tree/master/0216-combination-sum-iii) |
 | [0282-expression-add-operators](https://github.com/Palaksh-singh/DSA/tree/master/0282-expression-add-operators) |
 | [0401-binary-watch](https://github.com/Palaksh-singh/DSA/tree/master/0401-binary-watch) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Palaksh-singh/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Algorithm X
 |  |
 | ------- |
@@ -399,4 +404,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Palaksh-singh/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Palaksh-singh/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
