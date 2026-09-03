@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Palaksh-singh/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Palaksh-singh/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Palaksh-singh/DSA/tree/master/3731-find-missing-elements) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Palaksh-singh/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Palaksh-singh/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Palaksh-singh/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Palaksh-singh/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Palaksh-singh/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
